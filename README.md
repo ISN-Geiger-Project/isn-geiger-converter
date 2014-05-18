@@ -1,9 +1,10 @@
-isn-geiger-digitizer
+isn-geiger-converter
 ====================
 
->>Digitizer between the geiger-counter and the geiger-client
+>>Numeric converter between the geiger-counter and the geiger-client
 
-<h4>isn-geiger-digitizer</h4>
+<h4>isn-geiger-converter</h4>
 - Thanks to my teacher for this stuff!
-- This is an digitizer written in C and uploaded on a microcontroller
+- This is an converter written in C and uploaded on a microship
 - It counts electrical signals received every 10 seconds and sends them on a RS232 port
+- Message : "N = <count>"
