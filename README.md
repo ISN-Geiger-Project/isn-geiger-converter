@@ -7,4 +7,4 @@ isn-geiger-converter
 - Thanks to my teacher for this stuff!
 - This is an converter written in C and uploaded on a microship
 - It counts electrical signals received every 10 seconds and sends them on a RS232 port
-- Message : "N = <count>"
+- Message : "N = \<count\>"
